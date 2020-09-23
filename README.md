@@ -1,9 +1,6 @@
 # DjangoWebDevOps
 ##### This is  DevOps-Manager-Platform  for Django WebUI .
  
- ##### 这是我的csdn博客地址：https://blog.csdn.net/qq_28513801/article/details/100750538
- email: 1300042631@qq.com
- 
  > 先说一下，完成一半自己想做的项目的感受和经历。
  
 > 这是一个从后台到前端独自完成的自己的项目，虽然这两天刚加入的功能还没有完全实现，但是也差不多存在一些功能了。
@@ -49,25 +46,6 @@
 |Docker	|v18.3
 |Grafana（测试API）|	v5.6
 |Echarts	|官网最新版（开发者版完整版）
-
-##### 平台页面截图：
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/denglu.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/shouye.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/zican.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/zican1.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/zidongbushu.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua1.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua3.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua4.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua5.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua6.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua7.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua8.png) 
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua9.png)
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/tuxinghua10.png) 
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/ssh.png) 
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/ssh1.png) 
-![image](https://github.com/pwxwmm/DjangoWebDevOps/blob/master/DisplayImages/ssh2.png) 
  
 
 
